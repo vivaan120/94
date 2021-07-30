@@ -1,0 +1,7 @@
+#imgg{
+    height: 100px;
+    width: 100px;
+}
+body {
+	background-image: linear-gradient(to right top, #f1c533, #d9d625, #c17818);
+}
